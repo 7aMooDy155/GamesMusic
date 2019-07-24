@@ -1,6 +1,6 @@
 token=NjAyNTA5ODg1Mjc5Njk4OTQ0.XTSQ5w.tjwDhJ9_tS_LYvCfhuvszaDzWYk
 owner=546356439493640197
-prefix=!
-game=GamesMcMusic
+prefix= !help
+game= GamesMcMusic
 stayinchannel=true 
 songinstatus=false 
